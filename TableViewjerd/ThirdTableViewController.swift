@@ -17,7 +17,7 @@ class ThirdTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         
-        names2 = ["ちっす","もう三日","大丈夫！","びしばし"]
+        names2 = ["audio1","audio2","audio3","audio4"]
         identities2 = ["A2","B2","C2","D2"]
         imgArray2 = ["Oval1","Oval2","Oval3","Oval4"]
         

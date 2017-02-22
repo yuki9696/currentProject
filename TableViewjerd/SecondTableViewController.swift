@@ -11,9 +11,14 @@ import UIKit
 
 class SecondTableViewController: UITableViewController {
     
+    
     @IBAction func toSetting(_ sender: Any) {
         performSegue(withIdentifier: "go", sender: self)
+
     }
+    
+    
+    
     
     
     var names = [String]()

@@ -43,10 +43,10 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
     
     
     
-    let url1 = Bundle.main.bundleURL.appendingPathComponent("music1.mp3")
-    let url2 = Bundle.main.bundleURL.appendingPathComponent("music2.mp3")
-    let url3 = Bundle.main.bundleURL.appendingPathComponent("music3.mp3")
-    let url4 = Bundle.main.bundleURL.appendingPathComponent("music4.mp3")
+    let url1 = Bundle.main.bundleURL.appendingPathComponent("なんか音.mp3")
+    let url2 = Bundle.main.bundleURL.appendingPathComponent("もう三日.mp3")
+    let url3 = Bundle.main.bundleURL.appendingPathComponent("気のせいだよ.mp3")
+    let url4 = Bundle.main.bundleURL.appendingPathComponent("ビシバシ教える.mp3")
     
     @IBOutlet weak var yourButton1: CustomButton!
     
